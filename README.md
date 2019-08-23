@@ -5,3 +5,4 @@ Menu
 * Chicken
 * Lobster
 * Mac & Cheese
+* Ice Cream
