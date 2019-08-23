@@ -19,3 +19,5 @@ Menu
 ## Desserts
 
 * Ice Cream
+* Chocolate Cake
+* Apple Pie
