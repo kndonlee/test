@@ -6,6 +6,10 @@ Menu
 * Wings
 * Onion Rings
 
+## Romanian Soups
+
+* Beef Tripe
+
 ## Menu
 
 * Steak
